@@ -2356,7 +2356,8 @@ textarea.form-control {
   .form-inline .form-check-input {
     position: relative;
     margin-top: 0;
-    margin-right: 0.25rem;
+    margin-right
+    : 0.25rem;
     margin-left: 0;
   }
   .form-inline .custom-control {
@@ -2373,7 +2374,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #212529;
+  color: #95ADA8;
   text-align: center;
   vertical-align: middle;
   -webkit-user-select: none;
@@ -2420,8 +2421,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #95ADA8;
+  border-color: #FFFFFF;
 }
 
 .btn-primary:hover {
@@ -4523,7 +4524,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: #556D68;
 }
 
 .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
@@ -6382,7 +6383,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #007bff !important;
+  background-color: #95ADA8 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6452,7 +6453,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #556D68 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
